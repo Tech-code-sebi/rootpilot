@@ -70,7 +70,7 @@ while true; do
     17) echo "System wird gesichert..." ;;
     18) apt install -y htop glances ;;
     19) apt update && apt upgrade -y ;;
-    20) whiptail --msgbox "RootPilot OS by Sebastian\nGitHub: https://github.com/DEINUSERNAME/rootpilot-os" 10 60 ;;
+    20) whiptail --msgbox "RootPilot OS by Sebastian\nGitHub: https://github.com/Tech-code-sebi/rootpilot" 10 60 ;;
     21) bash ;;
     *) break ;;
   esac
